@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[exceution done]]>
+    </line>
+    <line>
+      <![CDATA[Excution Success]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22251" started-at="2019-09-24T07:18:24Z" finished-at="2019-09-24T07:18:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22251" started-at="2019-09-24T07:18:24Z" finished-at="2019-09-24T07:18:46Z">
+      <class name="testNGProject.testNGProject.testlaunchByTestng">
+        <test-method status="PASS" signature="before1()[pri:0, instance:testNGProject.testNGProject.testlaunchByTestng@12bb4df8]" name="before1" is-config="true" duration-ms="31" started-at="2019-09-24T12:48:24Z" finished-at="2019-09-24T12:48:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before1 -->
+        <test-method status="PASS" signature="testlaunch()[pri:0, instance:testNGProject.testNGProject.testlaunchByTestng@12bb4df8]" name="testlaunch" duration-ms="22202" started-at="2019-09-24T12:48:24Z" finished-at="2019-09-24T12:48:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[exceution done]]>
+            </line>
+            <line>
+              <![CDATA[Excution Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testlaunch -->
+      </class> <!-- testNGProject.testNGProject.testlaunchByTestng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
